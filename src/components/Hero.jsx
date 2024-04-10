@@ -1,7 +1,7 @@
 import React from 'react';
 import {motion} from 'framer-motion';
 import {styles} from '../styles';
-import {ComputersCanvas} from './canvas';
+import {EarthCanvas} from './canvas';
 
 const Hero = () => {
   return (
@@ -16,7 +16,7 @@ const Hero = () => {
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>Cloud Architect | Full-Stack Dev | Building Scalable Solutions</p>
           </div>
       </div>
-      <ComputersCanvas/>
+      <EarthCanvas/>
     </section>
   )
 }
