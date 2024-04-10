@@ -112,14 +112,6 @@ import {
       icon: next,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "Python",
-      icon: python,
-    },
-    {
       name: "bubble.io",
       icon: bubble,
     },
