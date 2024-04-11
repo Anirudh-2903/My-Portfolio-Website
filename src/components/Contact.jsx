@@ -6,7 +6,9 @@ import { styles } from '../styles';
 import {EarthCanvas, SSCanvas} from './canvas';
 import {slideIn} from '../utils/motion';
 
-
+//template_d8vh7a7
+//service_uunbmew
+//aqQnEO_WB6cXh_X6C
 
 const Contact = () => {
   const formRef = useRef();
@@ -18,9 +20,34 @@ const Contact = () => {
   const [loading, setLoading] = useState(false);
 
   const handleChange = (e) => {
-    // setForm({...form, [e.target.name]: e.target.value });
+    const {name,value} = e.target;
+    setForm({...form, [name]: value });
   };
-  const handleSubmit = (e) => {};
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    setLoading(true);
+    emailjs.send('service_uunbmew', 'template_d8vh7a7',
+    {
+        from_name: form.name,
+        to_name: 'Anirudh Das',
+        from_email: form.email,
+        to_email: 'anirudhdas898@gmail.com',
+        message: form.message,
+    }, 'aqQnEO_WB6cXh_X6C')
+     .then(() => {
+        setLoading(false);
+        alert('Thank you for expressing interest in my work! I will get back to you as soon as possible.');
+        setForm({
+          name: '',
+          email: '',
+          message: '',
+        });
+      }, (error) => {
+        setLoading(false);
+        console.log(error);
+        alert('Something went wrong!!');
+      });
+  };
 
   return (
     <div className='xl:mt-12 xl:flex-row flex-col-reverse flex gap-10 overflow-hidden'>
