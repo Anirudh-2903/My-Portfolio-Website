@@ -5,13 +5,14 @@ import CanvasLoader from '../Loader';
 
 const Earth = () => {
 
-  const earth = useGLTF('./a_windy_day/scene.gltf')
+  const earth = useGLTF('./earthquake/scene.gltf')
+
 
   return (
     <mesh>
       <primitive object={earth.scene}
-      scale={5}
-      position={[0,-2.25,0]}/>
+      scale={0.1}
+      position={[0,-3,0]}/>
     </mesh>
   )
 }
@@ -24,7 +25,7 @@ const EarthCanvas = () => {
       camera={{position : [20,30,5] , fov:25}}
       gl={{preserveDrawingBuffer: true}}>
       <Suspense fallback={<CanvasLoader />} >
-        <OrbitControls enableZoom={false} autoRotate maxPolarAngle={Math.PI/2} minPolarAngle={Math.PI/2} />
+        <OrbitControls enableZoom={false} autoRotate minPolarAngle={Math.PI/2} maxPolarAngle={Math.PI/2} />
         <Earth />
       </Suspense>
       <Preload all />

@@ -5,14 +5,13 @@ import CanvasLoader from '../Loader';
 
 const SS = () => {
 
-  const ss = useGLTF('./space_station/scene.gltf')
+  const ss = useGLTF('./space_boi/scene.gltf')
 
   return (
     <mesh>
       <primitive object={ss.scene}
-      scale={1.0}
-      position={[0,1,0]}/>
-      <hemisphereLight object={ss.scene} intensity={1000} />
+      scale={1.4}
+      position={[0,-6,0]}/>
     </mesh>
   )
 }
