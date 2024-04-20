@@ -14,7 +14,7 @@ import {
     finglo,
     reclimate,
     nalco,
-    carrent,
+    orchestrate,
     jobit,
     tripguide,
     bubble,
@@ -26,6 +26,7 @@ import {
     csharp,
     python,
     vb,
+    deepak,
   } from "../assets";
 
   export const navLinks = [
@@ -176,38 +177,30 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "Anirudh's expertise with Bubble.io was pivotal for Reclimate. His rapid mastery of the platform and seamless API development were crucial in delivering key features swiftly.He consistently showcased strong problem-solving skills and a collaborative attitude, seamlessly integrating feedback to deliver high-quality results within the given timeframe.",
+      name: "Poorvi Agarwal",
+      designation: "CTO & Co-Founder",
+      company: "Reclimate",
+      image: "https://media.licdn.com/dms/image/C4E03AQGPu0Olw60iUA/profile-displayphoto-shrink_400_400/0/1586928166450?e=1718841600&v=beta&t=S3d6d7zzYfk0U1uoGkJ3BHA14TTuJtM2FTtit2cP4Qg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "Working with Anirudh during his internship has been an absolute pleasure. His keen attention to detail and proactive approach were evident in the successful completion of the sitemap-based Tree View landing page project.Anirudh's ability to grasp concepts quickly and his willingness to tackle challenges  greatly contributed to the project's success.",
+      name: "Deepak Pal",
+      designation: "Manager -  Systems",
+      company: "NALCO",
+      image: deepak,
     },
   ];
 
   const projects = [
     {
-      name: "Car Rent",
+      name: "Orchestrate",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A comprehensive, full-stack platform for managing events.Featuring seamless payment processing through Stripe, you have the capability to purchase tickets for any event or even initiate and manage your own events.",
       tags: [
         {
-          name: "react",
+          name: "nextjs",
           color: "blue-text-gradient",
         },
         {
@@ -219,51 +212,52 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: orchestrate,
+      source_code_link1: "https://github.com/Anirudh-2903/Orchestrate",
+      source_code_link2: "https://orchestrate.anirudh-das.in/",
     },
-    {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
-    },
+    // {
+    //   name: "Job IT",
+    //   description:
+    //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+    //   tags: [
+    //     {
+    //       name: "react",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "restapi",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "scss",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: jobit,
+    //   source_code_link: "https://github.com/",
+    // },
+    // {
+    //   name: "Trip Guide",
+    //   description:
+    //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    //   tags: [
+    //     {
+    //       name: "nextjs",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "supabase",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "css",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: tripguide,
+    //   source_code_link: "https://github.com/",
+    // },
   ];
 
   export { services, technologies, experiences, testimonials, projects };

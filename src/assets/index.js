@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import deepak from "./deepak.jpeg";
 
 import css from "./tech/css.png";
 import html from "./tech/html.png";
@@ -29,7 +30,7 @@ import nalco from "./company/nalco.jpeg";
 import finglo from "./company/finglo.jpeg";
 import reclimate from "./company/reclimate.png";
 
-import carrent from "./carrent.png";
+import orchestrate from "./orchestrate.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -61,7 +62,8 @@ export {
   finglo,
   nalco,
   reclimate,
-  carrent,
+  orchestrate,
+  deepak,
   jobit,
   tripguide,
 };
