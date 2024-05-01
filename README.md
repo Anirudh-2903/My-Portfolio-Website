@@ -1,3 +1,13 @@
-As a passionate Full Stack Developer with about 2 years of experience, I have embarked on an incredible journey of learning and growth. This repository serves as a visual representation of that journey, chronicling my transition from a newcomer to a seasoned professional. Each project in this collection holds a special place in my heart, showcasing the skills and knowledge I acquired along the way.
+<div align="center">
+  <br />
+    <a  >
+      <img src="https://github.com/Anirudh-2903/My-Portfolio-Website/blob/master/hero.png" alt="Project Banner">
+    </a>
+  <br />
 
-Explore the various projects I've created over the years. From my early attempts as a beginner to the more complex and polished projects that demonstrate my expertise, each one tells a unique story of my progress. These projects not only highlight technical skills but also reflect my creativity and determination as I honed my craft.
+  <div>
+    <img src="https://img.shields.io/badge/-React_JS-804dee?style=for-the-badge" alt="Next.js" />
+    <img src="https://img.shields.io/badge/-Three.JS-804dee?style=for-the-badge" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-Javascript-804dee?style=for-the-badge" alt="Payload_CMS" />
+  </div>
+</div>
