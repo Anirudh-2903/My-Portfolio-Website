@@ -45,11 +45,7 @@ Experience an immersive journey through the cosmos with my customizable 3D Hero 
 
 - **3D Skills Section**: Showcases skills using 3D geometries through three.js and React Three fiber.
 
-- **Seamless Shopping Cart Experience**: Allow users to add products to their cart and seamlessly proceed to checkout. Enhance user satisfaction with a smooth and hassle-free shopping experience.
-
 - **Animated Projects and Testimonials**: Features animated sections using framer motion for projects and client testimonials.
-
-- **Responsive Design for All Devices**: Deliver a consistent user experience across all devices with a responsive design. Whether users access your store on desktop or mobile, they'll enjoy a seamless browsing and shopping experience.
 
 - **Contact Section with 3D Solar System Model**: Integrates a 3D solar system model with email functionality powered by emailjs.
 
