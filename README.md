@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 <a name="table">Table Of Contents</a>
+## 📋 <a name="table">Table of Contents</a>
 
 1. [Introduction](#introduction)
 2. [Tech Stack](#tech-stack)
