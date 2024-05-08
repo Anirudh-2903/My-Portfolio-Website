@@ -195,30 +195,26 @@ import {
 
   const projects = [
     {
-      name: "Orchestrate",
+      name: "Nexus",
       description:
-        "A comprehensive, full-stack platform for managing events.Featuring seamless payment processing through Stripe, you have the capability to purchase tickets for any event or even initiate and manage your own events.",
+        "Nexus redefines video conferencing with a powerful blend of user-friendly features and cutting-edge technology. Securely log in with Clerk, quickly launch meetings, and enjoy intuitive controls over video, audio, and screen sharing. Create your own personalized meeting space with a unique link, accessible anytime. Manage participants, record meetings, and access past sessions with ease.",
       tags: [
         {
           name: "nextjs",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "getStream",
           color: "green-text-gradient",
         },
         {
           name: "tailwind",
           color: "pink-text-gradient",
         },
-        {
-          name: "stripe",
-          color: "orange-text-gradient",
-        }
       ],
-      image: orchestrate,
-      source_code_link1: "https://github.com/Anirudh-2903/Orchestrate",
-      source_code_link2: "https://orchestrate.anirudh-das.in/",
+      image: nexus,
+      source_code_link1: "https://github.com/Anirudh-2903/nexus",
+      source_code_link2: "https://nexus.anirudh-das.in/",
     },
     {
       name: "Synapse Hub",
@@ -244,29 +240,33 @@ import {
       ],
       image: synapse_hub,
       source_code_link1: "https://github.com/Anirudh-2903/synapse-hub",
-      source_code_link2: "",
+      source_code_link2: "/error/index.html",
     },
     {
-      name: "Nexus",
+      name: "Orchestrate",
       description:
-        "Nexus redefines video conferencing with a powerful blend of user-friendly features and cutting-edge technology. Securely log in with Clerk, quickly launch meetings, and enjoy intuitive controls over video, audio, and screen sharing. Create your own personalized meeting space with a unique link, accessible anytime. Manage participants, record meetings, and access past sessions with ease.",
+        "A comprehensive, full-stack platform for managing events.Featuring seamless payment processing through Stripe, you have the capability to purchase tickets for any event or even initiate and manage your own events.",
       tags: [
         {
           name: "nextjs",
           color: "blue-text-gradient",
         },
         {
-          name: "getStream",
+          name: "mongodb",
           color: "green-text-gradient",
         },
         {
           name: "tailwind",
           color: "pink-text-gradient",
         },
+        {
+          name: "stripe",
+          color: "orange-text-gradient",
+        }
       ],
-      image: nexus,
-      source_code_link1: "https://github.com/Anirudh-2903/nexus",
-      source_code_link2: "https://nexus.anirudh-das.in/",
+      image: orchestrate,
+      source_code_link1: "https://github.com/Anirudh-2903/Orchestrate",
+      source_code_link2: "https://orchestrate.anirudh-das.in/",
     },
   ];
 
