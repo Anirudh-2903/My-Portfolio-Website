@@ -240,7 +240,7 @@ import {
       ],
       image: synapse_hub,
       source_code_link1: "https://github.com/Anirudh-2903/synapse-hub",
-      source_code_link2: "/error/index.html",
+      source_code_link2: "https://error-not-found.my.canva.site/error",
     },
     {
       name: "Orchestrate",
