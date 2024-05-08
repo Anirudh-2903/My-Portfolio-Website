@@ -15,8 +15,8 @@ import {
     reclimate,
     nalco,
     orchestrate,
-    jobit,
-    tripguide,
+    nexus,
+    synapse_hub,
     bubble,
     aws,
     gcp,
@@ -211,53 +211,63 @@ import {
           name: "tailwind",
           color: "pink-text-gradient",
         },
+        {
+          name: "stripe",
+          color: "orange-text-gradient",
+        }
       ],
       image: orchestrate,
       source_code_link1: "https://github.com/Anirudh-2903/Orchestrate",
       source_code_link2: "https://orchestrate.anirudh-das.in/",
     },
-    // {
-    //   name: "Job IT",
-    //   description:
-    //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    //   tags: [
-    //     {
-    //       name: "react",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "restapi",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "scss",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: jobit,
-    //   source_code_link: "https://github.com/",
-    // },
-    // {
-    //   name: "Trip Guide",
-    //   description:
-    //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    //   tags: [
-    //     {
-    //       name: "nextjs",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "supabase",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "css",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: tripguide,
-    //   source_code_link: "https://github.com/",
-    // },
+    {
+      name: "Synapse Hub",
+      description:
+        "Synapse Hub is a Full Stack Ecommerce App integrated with Payload CMS.With a user-friendly admin interface powered by Payload CMS, you can easily add, edit, and remove products, keeping your inventory up-to-date effortlessly. Track orders and manage their status through the intuitive dashboard, ensuring smooth operations. User authentication allows customers to create accounts, log in, and manage their profile information securely.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "payload_cms",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "orange-text-gradient",
+        }
+      ],
+      image: synapse_hub,
+      source_code_link1: "https://github.com/Anirudh-2903/synapse-hub",
+      source_code_link2: "",
+    },
+    {
+      name: "Nexus",
+      description:
+        "Nexus redefines video conferencing with a powerful blend of user-friendly features and cutting-edge technology. Securely log in with Clerk, quickly launch meetings, and enjoy intuitive controls over video, audio, and screen sharing. Create your own personalized meeting space with a unique link, accessible anytime. Manage participants, record meetings, and access past sessions with ease.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "getStream",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: nexus,
+      source_code_link1: "https://github.com/Anirudh-2903/nexus",
+      source_code_link2: "https://nexus.anirudh-das.in/",
+    },
   ];
 
   export { services, technologies, experiences, testimonials, projects };

@@ -22,7 +22,6 @@ import aspnet from "./tech/aspnet.png";
 import csharp from "./tech/csharp.png";
 import python from "./tech/python.png";
 import vb from "./tech/vb.png";
-import redux from "./tech/redux.png";
 import bubble from "./tech/bubble.svg";
 
 // import meta from "./company/meta.png";
@@ -31,8 +30,8 @@ import finglo from "./company/finglo.jpeg";
 import reclimate from "./company/reclimate.png";
 
 import orchestrate from "./orchestrate.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import nexus from "./nexus.png";
+import synapse_hub from "./synapse_hub.png";
 
 export {
   logo,
@@ -62,8 +61,8 @@ export {
   finglo,
   nalco,
   reclimate,
-  orchestrate,
   deepak,
-  jobit,
-  tripguide,
+  orchestrate,
+  nexus,
+  synapse_hub,
 };
