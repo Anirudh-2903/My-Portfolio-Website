@@ -197,7 +197,7 @@ import {
     {
       name: "Nexus",
       description:
-        "Nexus redefines video conferencing with a powerful blend of user-friendly features and cutting-edge technology. Securely log in with Clerk, quickly launch meetings, and enjoy intuitive controls over video, audio, and screen sharing. Create your own personalized meeting space with a unique link, accessible anytime. Manage participants, record meetings, and access past sessions with ease.",
+        "Nexus  is a Full Stack Video Conferencing App integrated with getStream which redefines video conferencing with a powerful blend of user-friendly features and cutting-edge technology. Securely log in with Clerk, quickly launch meetings, and enjoy intuitive controls over video, audio, and screen sharing. Create your own personalized meeting space with a unique link, accessible anytime. Manage participants, record meetings, and access past sessions with ease.",
       tags: [
         {
           name: "nextjs",
@@ -211,6 +211,10 @@ import {
           name: "tailwind",
           color: "pink-text-gradient",
         },
+        {
+          name: "nodejs",
+          color: "orange-text-gradient",
+        }
       ],
       image: nexus,
       source_code_link1: "https://github.com/Anirudh-2903/nexus",
