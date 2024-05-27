@@ -6,9 +6,9 @@
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-React_JS-804dee?style=for-the-badge" alt="Next.js" />
-    <img src="https://img.shields.io/badge/-Three.JS-804dee?style=for-the-badge" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-804dee?style=for-the-badge" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=black&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
   </div>
 
