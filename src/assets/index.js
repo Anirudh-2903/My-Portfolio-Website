@@ -32,6 +32,7 @@ import reclimate from "./company/reclimate.png";
 import orchestrate from "./orchestrate.png";
 import nexus from "./nexus.png";
 import synapse_hub from "./synapse_hub.png";
+import dreamscape from "./dreamscape.jpeg";
 
 export {
   logo,
@@ -65,4 +66,5 @@ export {
   orchestrate,
   nexus,
   synapse_hub,
+  dreamscape
 };

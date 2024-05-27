@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 
 import {
     mobile,
@@ -16,6 +17,7 @@ import {
     nalco,
     orchestrate,
     nexus,
+    dreamscape,
     synapse_hub,
     bubble,
     aws,
@@ -194,6 +196,32 @@ import {
   ];
 
   const projects = [
+    {
+      name: "Dreamscape",
+      description:
+        "Dreamscape  is an AI Video Sharing App built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite, this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.",
+      tags: [
+        {
+          name: "react-native",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "animatable",
+          color: "green-text-gradient",
+        },
+        {
+          name: "appwrite",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "nativewindcss",
+          color: "orange-text-gradient",
+        }
+      ],
+      image: dreamscape,
+      source_code_link1: "https://github.com/Anirudh-2903/dreamscape",
+      source_code_link2: "https://error-not-found.my.canva.site/error",
+    },
     {
       name: "Nexus",
       description:
