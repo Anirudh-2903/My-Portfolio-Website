@@ -8,7 +8,7 @@
   <div>
     <img src="https://img.shields.io/badge/-React_JS-804dee?style=for-the-badge" alt="Next.js" />
     <img src="https://img.shields.io/badge/-Three.JS-804dee?style=for-the-badge" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-804dee?style=for-the-badge" alt="Payload_CMS" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-804dee?style=for-the-badge" alt="Tailwind CSS" />
   </div>
   </div>
 
