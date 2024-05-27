@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a  >
-      <img src="https://github.com/Anirudh-2903/My-Portfolio-Website/blob/master/hero.png" alt="Project Banner">
-    </a>
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/My%20Portfolio/hero.png" alt="Project Banner">
   <br />
 
   <div>
@@ -40,14 +38,50 @@ Experience an immersive journey through the cosmos with my customizable 3D Hero 
 ## <a name="features">Features</a>
 
 - **Customizable 3D Hero Section**: Includes a 3D planet model easily customizable to suit specific needs.
+  
+  <div align="center">
+  <br />
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/My%20Portfolio/hero.png" alt="hero">
+  <br />
+  </div>
 
 - **Interactive Experience and Work Sections**: Utilizes animations powered by framer motion for engaging user experience.
 
+  <div align="center">
+  <br />
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/My%20Portfolio/about.png" alt="about">
+  <br />
+  <br />
+  <br />
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/My%20Portfolio/workexp.png" alt="workexp">
+  </div>
+
 - **3D Skills Section**: Showcases skills using 3D geometries through three.js and React Three fiber.
+
+  <div align="center">
+  <br />
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/My%20Portfolio/skills.png" alt="skills">
+  <br />
+  </div>
 
 - **Animated Projects and Testimonials**: Features animated sections using framer motion for projects and client testimonials.
 
+  <div align="center">
+  <br />
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/My%20Portfolio/projects.png" alt="projects">
+  <br />
+  <br />
+  <br />
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/My%20Portfolio/feedback.png" alt="feedback">
+  </div>
+
 - **Contact Section with 3D Solar System Model**: Integrates a 3D solar system model with email functionality powered by emailjs.
+
+  <div align="center">
+  <br />
+      <img src="https://github.com/Anirudh-2903/Project-Images/blob/master/My%20Portfolio/contact.png" alt="contact">
+  <br />
+  </div>
 
 - **3D Stars**: Generate stars progressively at random positions using Three.js for background display.
 
