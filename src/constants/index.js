@@ -183,7 +183,7 @@ import {
       name: "Poorvi Agarwal",
       designation: "CTO & Co-Founder",
       company: "Reclimate",
-      image: "https://media.licdn.com/dms/image/C4E03AQGPu0Olw60iUA/profile-displayphoto-shrink_400_400/0/1586928166450?e=1718841600&v=beta&t=S3d6d7zzYfk0U1uoGkJ3BHA14TTuJtM2FTtit2cP4Qg",
+      image: "https://media.licdn.com/dms/image/v2/C4E03AQGPu0Olw60iUA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1586928166450?e=1757548800&v=beta&t=uhXtq2bSrF_Y4GPIZSSXa742KVS25WPzUThAWq_U7SY",
     },
     {
       testimonial:
